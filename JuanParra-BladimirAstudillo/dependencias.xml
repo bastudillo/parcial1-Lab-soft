@@ -1,0 +1,22 @@
+<Dependencias>
+    <Dependencia>
+        <Numero>0</Numero>
+        <Nombre>Decanatura</Nombre>
+        <Imagen>fiet1.jpg</Imagen>
+    </Dependencia>
+    <Dependencia>
+        <Numero>1</Numero>
+        <Nombre>Departamento de Sistemas</Nombre>
+        <Imagen>fiet2.jpg</Imagen>
+    </Dependencia>
+    <Dependencia>
+        <Numero>2</Numero>
+        <Nombre>Departamento de Electronica</Nombre>
+        <Imagen>fiet3.jpg</Imagen>
+    </Dependencia>
+    <Dependencia>
+        <Numero>3</Numero>
+        <Nombre>Il bastardo</Nombre>
+        <Imagen>bastardo.jpg</Imagen>
+    </Dependencia>
+</Dependencias>

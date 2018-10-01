@@ -1,0 +1,52 @@
+.centrado
+{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center
+}
+
+.imagen
+{    
+    width:100%;    
+}
+
+
+.verde
+{
+    background: green;
+    position: relative;
+    top: -250px;
+    bottom: 150px;    
+    right: 40%;
+    left: 40%;
+}
+
+.azul
+{
+    background: blue;  
+    color: white;
+    font-size: xx-large;
+    font-family: fantasy;  
+}
+.hidden{
+    display:none;
+}
+.boton
+{
+    text-decoration:none;
+	font-weight:600;
+	font-size:30px;
+	color:#ffffff;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:150px;
+	padding-right:150px;
+	background-color:#FFD27D;
+}
+
+.boton:hover
+{
+    background-color:#20B2AA;
+}
